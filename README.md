@@ -1,4 +1,4 @@
-# Raspberry Pi AI Robotic arm
+# DOFBOT AI Vision Robotic Arm with ROS Python programming for Raspberry Pi 5
 ![](https://github.com/YahboomTechnology/dofbot-Pi/blob/main/DOFBOT_Pi_Yahboom.jpg)
 # Introduction
 This Raspberry Pi robotic arm is mainly composed of an aluminum alloy bracket, a sturdy chassis, a multi-function expansion board, 6 bus servos and a 300,000 pixel camera. We built an operating system specifically for it based on Ubuntu20.04/ROD noetic, using Open Source CV and Python3 programming to create a series of AI vision functions. It can be controlled by APP, PC software, handle, JupyterLab. We provide detailed tutorials, open source codes and technical support services for Raspberry Pi players and AI beginners.
